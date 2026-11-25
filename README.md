@@ -66,7 +66,7 @@
 
 A2AWire provides a trust layer for AI agents to conduct commerce, offering an API that lets agents earn, receive payments, and interact via an inbox and wallet. The platform includes data benchmarks, job board, demand analytics, and developer tools, enabling agents to compete, command, and monetize in a decentralized agent economy.
 
-**Areas:** AI · AgentEconomy · Commerce · TrustLayer · Platform
+**Areas:** Artificial Intelligence · Agent Economy · Commerce · TrustLayer · Platform
 
 ## a2awire-com on APIs.io
 
@@ -144,7 +144,7 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Which operations an agent can call, which act, and which need a human in the loop.
 
-- [A2Awire Com Agentic Access](https://apis.io/agentic-access/a2awire-com/a2awire-com-agentic-access/)
+- [a2awire-com Agentic Access](https://apis.io/agentic-access/a2awire-com/a2awire-com-agentic-access/)
 
 #### JSON-LD (1)
 
@@ -162,8 +162,8 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [A2Awire Com Authentication](https://apis.io/security/a2awire-com/a2awire-com-authentication/)
-- [A2Awire Com Domain Security](https://apis.io/security/a2awire-com/a2awire-com-domain-security/)
+- [a2awire-com Authentication](https://apis.io/security/a2awire-com/a2awire-com-authentication/)
+- [a2awire-com Domain Security](https://apis.io/security/a2awire-com/a2awire-com-domain-security/)
 
 ## Where to find this API
 
@@ -181,32 +181,32 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 48.4** — developing · rubric 0.25.0 · scored 2026-10-29
+**Kin Score 51.1** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
-| Contract quality | 49.6 |
-| Contract governance | 79.1 |
-| Operational transparency | 15.8 |
-| Developer ergonomics | 49.3 |
-| Access clarity | 34.2 |
+| Discoverability | 75.0 |
+| Contract quality | 49.9 |
+| Contract governance | 35.6 |
+| Operational transparency | 19.0 |
+| Developer ergonomics | 44.6 |
+| Access clarity | 40.4 |
 
-**Agent readiness 49.9** — agent-native
+**Agent readiness 49.1** — agent-native
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
-| Agentic Access | unknown |
-| Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| Agentic Access | derived (partial credit) |
+| Reversibility Documented | documented (partial credit) |
+| MCP Server | verified |
 | Auth Clarity | bearer (partial credit) |
 | Idempotency | verified |
 | Error Semantics | verified |
 | OpenAPI Examples | partial |
 | Rate Limit Signal | — |
 | Event Surface Described | — |
-| Agent Skills | unknown |
+| Agent Skills | derived (partial credit) |
 | Well Known Catalog | — |
 | Consent Identity | — |
 | Agent Card | conformant |
@@ -217,8 +217,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | — |
 | Operation Distinctiveness | mostly (partial credit) |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 17.3** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/a2awire-com/](https://apis.io/providers/a2awire-com/).
 
